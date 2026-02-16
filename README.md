@@ -17,5 +17,4 @@ Data Source
 The project utilizes a publicly available dataset provided in CSV format through a Udemy course. The data consists of multiple structured files, including Regions, Stores, Returns, Transactions, Products, Customers, and Calendar datasets.
 These datasets were systematically imported into Power BI, followed by data cleaning, transformation, and normalization using Power Query. The refined data was then modeled to establish relational integrity and enable efficient aggregations, advanced calculations, and comprehensive reporting.
 
-Preview
-(https://github.com/hrayapureddi/Maven-Grocery-Chain/blob/main/Maven%20Project%20Snapshot.png)
+![Dashboard Preview](https://github.com/hrayapureddi/Maven-Grocery-Chain/blob/main/Maven%20Project%20Snapshot.png)
